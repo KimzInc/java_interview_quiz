@@ -44,6 +44,8 @@ import java.util.List;
         -> a.getDiameter()>b.getDiameter() ?a:b);
         System.out.println(s);
 
+        //output: s2 [512.00]
+
     }
 }
 
