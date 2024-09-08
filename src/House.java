@@ -25,7 +25,7 @@ class Entry4{
         The line House blueHouse = new House("blue"); creates a new instance of
         the House class
         Note that House is a blueprint, and we are assigning it to the blueHouse variable.
-        In other words, it is a reference to the object in memory. 
+        In other words, it is a reference to the object in memory.
         * **/
     }
 }
